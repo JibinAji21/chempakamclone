@@ -60,3 +60,32 @@
     color: black;
     
 }
+#b3{
+    border-width: 1px;
+    position:relative;
+    
+
+}
+.browse1{
+    text-decoration: none;
+    /* background-color: whitesmoke; */
+    border: solid;
+    left: 42%;
+    border-color: gray;
+    color: gray;
+    border-width: 1px;
+    position: absolute;
+    padding: 10px 39px;
+    top:83%;
+    
+   
+
+
+}
+.newspaper{
+    margin-top: 100%;
+    width: 100%;
+    color: azure;
+    
+    
+}
